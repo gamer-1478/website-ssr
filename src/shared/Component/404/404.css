@@ -2,7 +2,7 @@
     display: block;
     height: 90vh;
     line-height: 40px;
-    background-image: url("http://localhost:5000/404Error.png");
+    background-image: url("http://aayushgarg-ssr.herokuapp.com/404Error.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
