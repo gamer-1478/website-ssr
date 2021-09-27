@@ -16,7 +16,7 @@ app.use("/", express.static(__dirname + "../../public"));
 // page varibale's should be dynamically set
 var title = "Aayush Garg"
 var comment = "nothing"
-var descriptionOfContent = "This is my personal website, i am a 14 year old software developer, involved in many projects"
+var descriptionOfContent = "This is my personal website, i am a High School software developer, involved in many projects"
 
 app.get('*', (req, res, next) => {
   const activeRoute = routes.find((route) => matchPath(req.url, route)) || {}
