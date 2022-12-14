@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^8.6.2",
     "isomorphic-fetch": "^3.0.0",
     "react": "^17.0.1",
